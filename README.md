@@ -45,9 +45,6 @@ Este repositório está organizado da seguinte forma:
 
 ![ADVPL](https://img.shields.io/badge/advpl-black?logo=totvs) ![PROTHEUS](https://img.shields.io/badge/protheus-black?logo=totvs)
 
-[GAMELEIRA STUDY](LICENSE.md)
-
-
 # Autores e Reconhecimento
 
 Gostaria de expressar minha gratidão a todos que contribuíram para a construção deste projeto, como colegas do estágio, mentores e stackholders.
