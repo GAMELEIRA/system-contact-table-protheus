@@ -14,6 +14,6 @@ O projeto permite a importação e leitura de arquivos CSV com campos padronizad
 
 # Distintivos
 
-![Code Size](https://img.shields.io/github/languages/code-size/GAMELEIRA/estudos-backend)
-![Last Commit](https://img.shields.io/github/last-commit/GAMELEIRA/estudos-backend)
-![Visitors](https://badges.strrl.dev/visits/GAMELEIRA/estudos-backend)
+![Code Size](https://img.shields.io/github/languages/code-size/GAMELEIRA/system-contact-table-protheus)
+![Last Commit](https://img.shields.io/github/last-commit/GAMELEIRA/system-contact-table-protheus)
+![Visitors](https://badges.strrl.dev/visits/GAMELEIRA/system-contact-table-protheus)
