@@ -23,11 +23,14 @@ O projeto permite a importação e leitura de arquivos CSV com campos padronizad
 
 Este repositório está organizado da seguinte forma:
 
+```plaintext
 .
 |--src
 |  |--OI4107.PRW
 |  |--build
 |     |--OI4107.ptm
+
+```
 
 **_src_**: pasta localizada na raiz que contém o código feito em ADVPL e o seu build. 
 
