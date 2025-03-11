@@ -50,3 +50,6 @@ Este repositório está organizado da seguinte forma:
 # Autores e Reconhecimento
 
 Gostaria de expressar minha gratidão a todos que contribuíram para a construção deste projeto, como colegas do estágio, mentores e stackholders.
+
+# Licença
+[MIT](LICENSE.md)
