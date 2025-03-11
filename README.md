@@ -4,7 +4,8 @@ Este repositório tem como objetivo armazenar o projeto desenvolvido durante o p
 # Sumário
 
 1. [Descrição](#descrição)
-3. [Distintivos](#distintivos)
+2. [Distintivos](#distintivos)
+3. [Estrutura do Projeto](#estrutura-do-projeto)
 
 # Descrição
 
@@ -17,3 +18,21 @@ O projeto permite a importação e leitura de arquivos CSV com campos padronizad
 ![Code Size](https://img.shields.io/github/languages/code-size/GAMELEIRA/system-contact-table-protheus)
 ![Last Commit](https://img.shields.io/github/last-commit/GAMELEIRA/system-contact-table-protheus)
 ![Visitors](https://badges.strrl.dev/visits/GAMELEIRA/system-contact-table-protheus)
+
+# Estrutura do Projeto
+
+Este repositório está organizado da seguinte forma:
+
+.
+|--src
+|  |--OI4107.PRW
+|  |--build
+|     |--OI4107.ptm
+
+**_src_**: pasta localizada na raiz que contém o código feito em ADVPL e o seu build. 
+
+**_OI4107.PRW_**: fonte **_ADVPL_** com o sistema desenvolvido.
+
+**_build_**: pasta resposável por alocar o build do projeto pronto para uso em qualquer rotina **_PROTHEUS_**.
+
+
