@@ -9,6 +9,7 @@ Este repositório tem como objetivo armazenar o projeto desenvolvido durante o p
 4. [Ferramentas Utilizadas](#ferramentas-utilizadas)
 5. [Autores e Reconhecimento](#autores-e-reconhecimento)
 6. [Licença](#licença)
+7. [Status do Projeto](#status-do-projeto)
 
 # Descrição
 
@@ -52,4 +53,9 @@ Este repositório está organizado da seguinte forma:
 Gostaria de expressar minha gratidão a todos que contribuíram para a construção deste projeto, como colegas do estágio, mentores e stackholders.
 
 # Licença
+
 [MIT](LICENSE.md)
+
+# Status do Projeto
+
+O projeto está **finalizado** após a conclusão e entrega do projeto para a equipe utilizar! 
